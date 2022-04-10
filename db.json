@@ -1,0 +1,114 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Hữu Hà",
+    "birthday": "26/12/2000",
+    "phone": "08116546882",
+    "gender": "Nam",
+    "address": "48 Cầu Diễn, Hà Nội",
+    "email": "bruhbruhlmao1234@gmail.com",
+    "facebook": "https://fb.com/sidav2",
+    "job": "Software engineer",
+    "avatar": "https://i.imgur.com/aH1xeiH.jpg",
+    "favorites": [
+      {
+        "id": 1,
+        "name": "Đánh đàn"
+      },
+      {
+        "id": 2,
+        "name": "Hát"
+      },
+      {
+        "id": 3,
+        "name": "Ăn uống"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "Docker",
+      "score": 80,
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "Linux",
+      "score": 60,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "VueJS/NuxtJS",
+      "score": 90,
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "GoLang",
+      "score": 70,
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "Ruby",
+      "score": 30,
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Crystal",
+      "score": 60,
+      "image": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 2,
+      "name": "Website nghe nhạc",
+      "start_time": "01/09/2021",
+      "end_time": "20/10/2022",
+      "descriptions": [
+        {
+          "id": 1,
+          "name": "Website nghe nhạc đơn giản giống với nhaccuatui.com, sử dụng Golang và NextJS"
+        },
+        {
+          "id": 2,
+          "name": "Thêm các phần nâng cao như gửi email, thiết kế app theo mô hình microservice."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Sàn giao dịch tiền ảo",
+      "start_time": "01/01/2022",
+      "end_time": "NOT YET",
+      "descriptions": [
+        {
+          "id": 1,
+          "name": "Sàn giao dịch tiền ảo giống với Binance"
+        },
+        {
+          "id": 2,
+          "name": "Sử dụng các công nghe như: Redpanda(like Kafka), Redis, Elaticsearch, YugaDB(like Postgresql), Vault, Istio và Docker"
+        }
+      ]
+    }
+  ],
+  "schools": [
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "year": "2020",
+      "name": "Bằng Giỏi THPT Nguyễn Trãi"
+    },
+    {
+      "id": 2,
+      "year": "2023",
+      "name": "Bằng ? Trường Cao đẳng FPT Polytechnic"
+    }
+  ]
+}
